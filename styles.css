@@ -1,0 +1,100 @@
+h1 {
+    font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+p{
+    font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+h2 {
+    font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.Name {
+   font-size: 59px;
+   color: rgb(68, 68, 82);
+   margin-left: 260px;
+   margin-top: 160px;
+   
+}
+
+.hi {
+ margin-left: 260px;
+margin-top: -150px;
+font-size: 25px;
+font-weight: lighter;
+       
+}
+
+
+.DescriptionTitle {
+   font-size: 40px;
+   color: rgb(76, 158, 212);
+   margin-left: 260px;
+   margin-top: 76px;
+
+}
+
+.DescriptionTitlev2 {
+    font-size: 40px;
+    color: rgb(76, 158, 212);
+    margin-left: 260px;
+    margin-top: -35px;
+
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 125px;
+    float: right;
+    margin-right: 150px;
+    margin-top: 320px;
+    
+}
+
+img:hover {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 150px;
+
+}
+
+.aboutme {
+    margin-left: 100px;
+    margin-top: 340px;
+    font-size: 40px;
+    color: rgb(68, 68, 82);
+    font-weight: 600;
+}
+
+.desc  {
+    margin-left: 100px;
+    color: rgb(68, 68, 82);
+    margin-top: -20px;
+}
+
+
+.sd {
+    font-style: normal;
+    font-weight: bold;
+    color: #4C9ED4;
+
+
+}
+
+.descv2 {
+    margin-left: 100px;
+    color: rgb(68, 68, 82);
+   
+}
+
+.descv3 {
+    margin-left: 100px;
+    color: rgb(68, 68, 82);
+
+}
+
+}
